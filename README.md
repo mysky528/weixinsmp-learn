@@ -1,1 +1,1 @@
-# weixinsmp-learn
+# 微信小程序代码演示
